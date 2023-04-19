@@ -1,2 +1,2 @@
 # Tarefa do Dia
-um pequeno sistema para adicionar e acompanhar as suas tarefas diárias.
+um pequeno sistema para adicionar e acompanhar as suas tarefas diárias (html + css + javascript).
